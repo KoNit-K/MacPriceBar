@@ -15,6 +15,7 @@
 ```bash
 git clone https://github.com/yourusername/MacPriceBar.git
 cd MacPriceBar
+```
 
 ### 2. Install Dependencies
 Ensure you have rumps and requests installed:
